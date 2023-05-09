@@ -13,3 +13,6 @@ After compile run then with 3 parameters, for example:
 ./result 2 3 2 (that will be 3 - 2 = 1)
 First parameter is an operation, second is first argument, third is second argument
 
+Array_and_loop:
+simple compile:
+That program just checking how many zeros is in the array.
